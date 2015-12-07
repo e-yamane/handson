@@ -1,0 +1,6 @@
+合計 16
+drwx------ 4 ec2-user ec2-user 4096 12月  7 04:47 ..
+-rw-rw-r-- 1 ec2-user ec2-user   13 12月  7 04:48 README.md
+drwxrwxr-x 8 ec2-user ec2-user 4096 12月  7 07:23 .git
+-rw-rw-r-- 1 ec2-user ec2-user    0 12月  7 07:24 F001.txt
+drwxrwxr-x 3 ec2-user ec2-user 4096 12月  7 07:24 .
